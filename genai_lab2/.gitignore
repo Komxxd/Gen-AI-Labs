@@ -13,9 +13,5 @@ __pycache__/
 # Data
 data/
 
-# Generated outputs
-final_generated_images/
-generated_samples/
-
 # OS files
 .DS_Store
