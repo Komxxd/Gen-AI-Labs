@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data
+data/
+
+# Generated outputs
+final_generated_images/
+generated_samples/
+
+# OS files
+.DS_Store
